@@ -122,3 +122,9 @@ function copyLink() {
   document.body.removeChild(input);
   alert("Link copied to clipboard!");
 }
+
+/* ========= SEND MESSAGE ========= */
+
+function sendMessage() {
+  alert("Currently this feature is not available!");
+}
