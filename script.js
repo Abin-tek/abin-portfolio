@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const helo = document.querySelector(".helo");
   const textArea = document.querySelector(".contact-form textarea");
   helo.addEventListener("click", function (e) {
-    textArea.textContent = "Hello!";
+    textArea.textContent = "Hello Nanba!";
   });
 });
 
