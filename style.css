@@ -351,6 +351,7 @@ header.sticky {
   line-height: 1.8;
   margin-bottom: 20px;
   height: 90px;
+  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
