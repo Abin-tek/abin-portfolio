@@ -352,6 +352,8 @@ header.sticky {
   margin-bottom: 20px;
   height: 90px;
   overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 }
 
