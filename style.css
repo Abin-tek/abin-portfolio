@@ -351,7 +351,9 @@ header.sticky {
   line-height: 1.8;
   margin-bottom: 20px;
   height: 90px;
-  overflow: ellipsis;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 }
 
 .read {
